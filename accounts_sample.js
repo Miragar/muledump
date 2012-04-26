@@ -7,8 +7,8 @@ var accounts = {
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
-lafkasdf
-
+'Email' : 'pass'
+'Email2' : 'pass2'
 	
 }// don't delete this line!
 
